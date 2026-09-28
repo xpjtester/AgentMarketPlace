@@ -1,0 +1,1 @@
+export default function Page(){return <main className="hero"><h1 style={{fontSize:56}}>Privacy</h1><p>AgentMarketPlace only collects information needed to operate the service, process purchases and respond to support requests. Payment details will be processed by our payment provider and are not stored directly by AgentMarketPlace.</p></main>}
