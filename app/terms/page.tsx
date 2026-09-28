@@ -1,0 +1,1 @@
+export default function Page(){return <main className="hero"><h1 style={{fontSize:56}}>Terms</h1><p>AgentMarketPlace provides digital products, tools and marketplace listings. Product-specific terms, prices and delivery conditions are shown before purchase. Users must not use the service for unlawful or abusive activity.</p></main>}
