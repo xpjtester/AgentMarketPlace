@@ -1,0 +1,1 @@
+export default function Page(){return <main className="hero"><h1 style={{fontSize:56}}>Refunds</h1><p>Refund eligibility depends on the type of digital product and whether delivery or generation has started. Final purchase screens will clearly show the applicable refund and withdrawal conditions before payment.</p></main>}
