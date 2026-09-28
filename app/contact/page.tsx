@@ -1,0 +1,1 @@
+export default function Page(){return <main className="hero"><h1 style={{fontSize:56}}>Contact</h1><p>Questions about products, listings or purchases? Contact details will be published before paid checkout goes live.</p></main>}
